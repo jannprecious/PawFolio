@@ -20,3 +20,60 @@ PawFolio provides a centralized platform for pet owners to organize and manage i
 -Medication Tracking
 -Schedule & Reminders
 -Emergency Vault
+
+## Project Structure
+PAWFOLIO/
+
+├── public/
+
+├── src/
+
+│   ├── components/
+
+│   ├── pages/
+
+│   │   ├── Login/
+
+│   │   ├── Register/
+
+│   │   ├── Dashboard/
+
+│   │   ├── AboutUs/
+
+│   │   ├── Services/
+
+│   │   ├── MyPets/
+
+│   │   ├── PetProfile/
+
+│   │   ├── VaccinationRecords/
+
+│   │   ├── SchedulesReminders/
+
+│   │   ├── MedicalHistory/
+
+│   │   ├── MedicalTracker/
+
+│   │   ├── EmergencyVault/
+
+│   │   ├── ContactUs/
+
+│   │   └── Help/
+
+│   ├── App.jsx
+
+│   └── main.jsx
+
+│
+
+├── package.json
+
+├── vite.config.js
+
+└── README.md
+
+## Design
+PawFolio’s user interface and prototype are designed using Figma. The design focuses on providing pet owners with a simple and organized way to access their pets’ profiles, vaccination records, medical history, schedules, reminders, medication information, and emergency details.
+
+## Project Status
+PawFolio is currently under development.
